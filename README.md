@@ -20,6 +20,8 @@ Tested on Android TV 10 and Android 12.
 Протестировано на Android TV 10 и Android 12.
 
 ---
+![image](https://github.com/user-attachments/assets/a3222812-4f75-4143-bf0f-03cfe61bd34d)
+---
 
 ### **Donations / Поддержать разработчика**
 Are welcome here :
