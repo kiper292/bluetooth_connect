@@ -9,6 +9,9 @@ Some devices on Android TV (such as Mi Box S or Mi TV Q1e) do not have a "Connec
 
 Tested on Android TV 10 and Android 12.
 
+### **Download the app:**
+[Bluetooth Connect](https://github.com/kiper292/bluetooth_connect/releases/download/v1.0.0/bluetooth_connect.apk)
+
 ---
 
 ## **Проблема:**
@@ -18,6 +21,9 @@ Tested on Android TV 10 and Android 12.
 **Поэтому я написал небольшое приложение, решающее эту проблему.**
 
 Протестировано на Android TV 10 и Android 12.
+
+### **Скачать приложение:**
+[Bluetooth Connect](https://github.com/kiper292/bluetooth_connect/releases/download/v1.0.0/bluetooth_connect.apk)
 
 ---
 ![image](https://github.com/user-attachments/assets/a3222812-4f75-4143-bf0f-03cfe61bd34d)
