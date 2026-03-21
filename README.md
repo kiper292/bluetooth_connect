@@ -34,17 +34,17 @@ Are welcome here :
 
 ![image](https://github.com/user-attachments/assets/13f67691-9c4f-463b-a0e6-5fcc9c9bae84) BTC:
 ```plaintext
-1KxW8gGEv27YR1ckygrLoEftb89eqFtwgt
+bc1qz7alaxn6fsu5k2egjv4j94s9frjvh9zua7xep3
 ```
 
-![image](https://github.com/user-attachments/assets/49749ce5-1296-46dd-8f55-16f874b3e887) TON / USDT TON: 
+![image](https://github.com/user-attachments/assets/49749ce5-1296-46dd-8f55-16f874b3e887) TON / USDT TON:
 ```plaintext
-UQBPqDx7s_mKBEp7kGRGok_qpEehI2yYUUw1djwyofaKVX3o
+UQCldh7x5uPbiayEymRX6x2Tvzz_NZBlKdKwoKctOGLVrFSI
 ```
 
-![image](https://github.com/user-attachments/assets/3e23f917-327e-42a6-b4e0-c1def9a42785) USDT TRC20: 
+![image](https://github.com/user-attachments/assets/3e23f917-327e-42a6-b4e0-c1def9a42785) USDT TRC20:
 ```plaintext
-TAN2vABggLn9FN4PoRGWjfQVFmgZxxZWYp
+TAjdAn2N8AKP5zz5XSafyopj5XdkhQcBDh
 ```
 
 ---
