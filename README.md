@@ -32,19 +32,34 @@ Tested on AndroidTV 9 (Xiaomi MiBox S), AndroidTV 10 (Mi TV Q1e) and Android 12 
 ### **Donations / Поддержать разработчика**
 Are welcome here :
 
-![image](https://github.com/user-attachments/assets/13f67691-9c4f-463b-a0e6-5fcc9c9bae84) BTC:
+<img width="16" height="16" alt="bitcoin" src="https://github.com/user-attachments/assets/ea73b5cc-cba4-4428-8704-d5345acf58d4" /> BTC:
 ```plaintext
-bc1qz7alaxn6fsu5k2egjv4j94s9frjvh9zua7xep3
+1ERKmMSyfxtKNNpU3TeaYCaJfDKY9s8jdX
 ```
 
-![image](https://github.com/user-attachments/assets/49749ce5-1296-46dd-8f55-16f874b3e887) TON / USDT TON:
+<img width="16" height="16" alt="ethereum" src="https://github.com/user-attachments/assets/2a2fcba2-66d9-4eb9-a5e7-35e6889f76f0" /> ETH Ethereum (ERC20):
 ```plaintext
-UQCldh7x5uPbiayEymRX6x2Tvzz_NZBlKdKwoKctOGLVrFSI
+0xfa8fdae60010e3d6b446d7479a9ccacfc56c0936
 ```
 
-![image](https://github.com/user-attachments/assets/3e23f917-327e-42a6-b4e0-c1def9a42785) USDT TRC20:
+<img width="16" height="16" alt="tether" src="https://github.com/user-attachments/assets/9f88aa41-fcfd-48ea-ae5a-c0bef933666d" /> USDT TRON (TRC20):
 ```plaintext
-TAjdAn2N8AKP5zz5XSafyopj5XdkhQcBDh
+TMgojRMiya1nJ2uEtw8u7p5YZ9J7Ykdmd9
+```
+
+<img width="16" height="16" alt="tether" src="https://github.com/user-attachments/assets/9f88aa41-fcfd-48ea-ae5a-c0bef933666d" /> USDT APTOS:
+```plaintext
+0x741a8b707b75aa57dc603fa30d1c4750198866b0e9eb6d9a7a1a7dde8ec7f4d2
+```
+
+<img width="16" height="16" alt="tontoken" src="https://github.com/user-attachments/assets/14e9293f-5ca2-49fe-b5ae-4bf48be065a4" /> TON / USDT TON:
+```plaintext
+UQD0BQTBSVo19hrjKyXnRc61MXW0j9dTZaLEXOUJwxLT2qRQ
+```
+
+<img width="16" height="16" alt="litecoin" src="https://github.com/user-attachments/assets/193b09c3-eca6-4feb-b887-a603813c11eb" /> LTC:
+```plaintext
+La2H1YD2zKxqhsziGrx74anjJYwAQJ67er
 ```
 
 ---
